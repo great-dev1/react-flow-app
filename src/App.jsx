@@ -17,10 +17,8 @@ import TestSidebar from "./TestSidebar";
 import CauseSidebar from "./CauseSidebar";
 import Toolbar from "./Toolbar";
 import { nodeTypes } from "./Nodes";
-import Modal from "./Modal";
 import "reactflow/dist/style.css";
 import "./index.css";
-import MenuBar from "./MenuBar";
 import axios from "./axios";
 
 let id = 0;
