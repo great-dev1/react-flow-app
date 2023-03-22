@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.entity-btn {
+  border: 1px solid #1a192b;
+  background-color: #486ec2;
+}
+
+.event-btn {
+  border: 1px solid #1a192b;
+  background-color: #ffc000;
+}
+
+.test-btn {
+  border: 1px solid #1a192b;
+  background-color: #ed7d31;
+}
+
+.cause-btn {
+  border: 1px solid #1a192b;
+  background-color: #70ad47;
+}
+
+.switchMode {
+  border: 1px solid #1a192b;
+}
+
+.close {
+  font-size: 6px;
+  color: white;
+}
+
+.border-entity {
+  border-color: #4472c4;
+}
+
+.border-event {
+  border-color: #ffc000;
+}
+
+.border-test {
+  border-color: #ed7d31;
+}
+
+.border-cause {
+  border-color: #00b050;
+}
+
+.handle-yellow {
+  background-color: #ffc000 !important;
+}
+
+.handle-green {
+  background-color: #70ad47 !important;
+}
+
+.handle-red {
+  background-color: #ff0000 !important;
+}
+
+.react-flow__attribution a {
+  /* visibility: hidden; */
+  display: none;
+}
+
+.react-flow__node-dottedrectangle {
+  z-index: -1 !important;
+}

@@ -1,0 +1,3 @@
+export const serverUrl = "https://continuity-dev.thinky.be";
+
+export const token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNjgzMjk1OTMzLCJpYXQiOjE2NzcyNDc5MzMsImp0aSI6ImYzNDNlNzFiNGI4NDQ4NjNiMTBmODAzNjI1MzIyNDljIiwidXNlcl9pZCI6ImFkbWluQG1haWwuY29tIn0.lwGMov5Rj1r6FVjXnaIbNqR4aC_TGcq5kKY58iO_WSI";
